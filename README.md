@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 👨🏻‍💻 About Me
 🔭 I’m currently learning Java Development
 🤔 Exploring new technologies and developing software solutions and quick hacks.
